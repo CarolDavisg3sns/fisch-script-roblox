@@ -4,6 +4,7 @@
 > Safe, reliable, and packed with awesome features! 🚀
 
 ---
+![fisch](https://github.com/user-attachments/assets/b2c915cc-2306-4114-9225-07e07c6b67cc)
 
 ## 🌟 **Why Choose Fisch Script?**
 
@@ -71,11 +72,8 @@ Your safety is **our priority**. Fisch Script is:
 
 ## 🌌 **Screenshots**
 
-![Preview 1](https://via.placeholder.com/800x400)  
-_Showing the smooth interface of Fisch Script!_
-
-![Preview 2](https://via.placeholder.com/800x400)  
-_Experience unparalleled gameplay improvements!_
+<img src="https://github.com/user-attachments/assets/bd0be138-9b6f-4c3a-8655-1a8588742c7c" alt="fisch_ingame" width="800">
+<img src="https://github.com/user-attachments/assets/7331629c-0d86-4bf3-a3b3-bfc759166af9" alt="fisch_ingame" width="800">
 
 ---
 
