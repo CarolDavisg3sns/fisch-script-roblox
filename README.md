@@ -30,8 +30,8 @@ Fisch Script is designed to make your Roblox gameplay smoother, faster, and more
 
 ## 📥 **How to Download and Use**
 
-1. **Click the "Code" button** above and download the ZIP file.  
-2. Extract the file and follow the simple setup instructions in the README.  
+1. **Click the "Download" button** above and download the ZIP file.  
+2. Extract the.  
 3. Inject the script into Roblox using your preferred script executor (e.g., Synapse X, Krnl).  
 4. Enjoy a smoother, enhanced Roblox experience! 🎉
 
@@ -39,7 +39,7 @@ Fisch Script is designed to make your Roblox gameplay smoother, faster, and more
 
 ## 🛠️ **Requirements**
 
-- A supported script executor (e.g., Synapse X, Krnl, Fluxus).  
+- A supported script executor.  
 - Windows or macOS operating system.  
 - Roblox installed and updated to the latest version.  
 
